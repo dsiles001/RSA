@@ -6,7 +6,7 @@ import egcd
 def makeKeys():
     i = 0
     while i !=2:
-        num = random.randint(1,1000)
+        num = random.randint(1,1000) # edit prime number size limits here
         if sympy.isprime(num):
             if i == 0:
                 p = num
