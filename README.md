@@ -1,4 +1,4 @@
-# RSA
+# RSA (This is simply a demo. This should not be used for real world application as the prime numbers generated are much smaller than what they should be in order to improve security. The prime numbers generated can be modified inside the makeKeys() function.) 
 
 Obviously, in order to use full functionality, there should be two participants when using this script, or at the least two terminal sessions.
 
